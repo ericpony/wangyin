@@ -54,13 +54,13 @@ Monads are contagious. Once you get in there, it is not easy to get out. Having 
 
 Of course overusing side-effects will make programs harder to analyze, but you can reduce side-effects and write pure functions even in an impure language. For example, the following C function is a pure function, satisfying every requirement of the definition of “pureness”.
 
-`int` `f(``int` `x) {`
-`    ``int` `y = 0;`
-`    ``int` `z = 0;`
-`    ``y = 2 * x;`
-`    ``z = y + 1;`
-`    ``return` `z / 3;`
-`}`
+    int f (int x) {
+        int y = 0;
+        int z = 0;
+        y = 2 * x;
+        z = y + 1;
+        return z / 3;
+    }
 
 Advanced static analysis tools such as Coverity would have no trouble figuring out things about this kind of code. They would know that this function is pure without you writing any annotations, and they can do a lot more for you than this. So pure functions don’t just belong to purely functional languages. You can write pure functions in any language (including assembly), but the point is, you should be allowed to use side-effects too, especially when they make things easier.
 
