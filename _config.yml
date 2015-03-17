@@ -1,4 +1,4 @@
-baseurl: http://creatist.cn/wangyin
+baseurl: http://ericpony.github.io/wangyin
 permalink: /:year/:month/:day/:title
 markdown: rdiscount
 pygments: true
