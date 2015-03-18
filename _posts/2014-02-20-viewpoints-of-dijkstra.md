@@ -7,8 +7,9 @@ title: 一个对 Dijkstra 的采访视频
 <center>
 一个对 Dijkstra 的采访视频
 <p><a href="http://www.youtube.com/watch?v=RCCigccBzIU" target="_blank"><img class="aligncenter size-medium wp-image-5521" alt="" src="http://www.yinwang.org/images/dijkstra-interview.png" width="500px"></a></p>
-（不能访问&nbsp;[YouTube](http://www.youtube.com/watch?v=RCCigccBzIU)&nbsp;的人可以从这里下载&nbsp;[MPEG1](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html)，300M）
 </center>
+
+（不能访问&nbsp;[YouTube](http://www.youtube.com/watch?v=RCCigccBzIU)&nbsp;的人可以从这里下载&nbsp;[MPEG1](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html)，300M）
 
 之前在微博上推荐了一个对 Dijkstra 的采访视频，看了两遍之后觉得实在很好，所以再正式推荐一下。如果你不清楚 Dijkstra 的贡献，那么就想一想自己用的程序语言里面司通见惯的“递归函数”是哪里来的。其实当年递归函数是 Dijsktra 和另一个人不顾委员会里众人的反对和怀疑，坚持要放进 Algol 60，所以后来才进入了 Pascal，C，Java 这样的语言的。那个时候 John McCarthy 不在场，不然的话就会有三个人支持了。
 
