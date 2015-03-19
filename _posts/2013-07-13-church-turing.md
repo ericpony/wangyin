@@ -3,7 +3,7 @@ layout: default
 title: 丘奇和图灵
 ---
 
-<table><tr><td><img src="http://www.yinwang.org/images/Alonzo_Church.jpg" height=300></td><td>&emsp;</td><td><img src="http://www.yinwang.org/images/Alan_Turing.jpg" height=300></td><tr></table>
+<table><tr><td><img src="http://ericpony.github.io/wangyin/images/Alonzo_Church.jpg" height=300></td><td>&emsp;</td><td><img src="http://ericpony.github.io/wangyin/images/Alan_Turing.jpg" height=300></td><tr></table>
 
 
 丘奇（Alonzo Church）和图灵（Alan Turing）是两位对计算机科学具有最大影响力的人物，然而他们却具有非常对立的观点和相差很多的名气。在我长达16年的计算机科学生涯中，总是感觉到自己的思想反反复复的徘徊于这两个“阵营”之间。丘奇代表了“逻辑”和“语言”，而图灵代表着“物理”和“机器”。在前面的8年中，我对丘奇一无所知，而在后面的8年中，我却很少再听到图灵的名字。他们的观点谁对谁错，是一个无法回答的问题。完全投靠丘奇，或者完全投靠图灵，貌似都是错误的做法。这是一种非常难说清楚的，矛盾的感觉，但是今天我试图把自己的感悟简要的介绍一下。
@@ -43,6 +43,6 @@ title: 丘奇和图灵
 
 所以，也许你看到了在我的头脑里面并存着丘奇和图灵的影子。我觉得丘奇的 lambda calculus 是比图灵机简单而强大的描述工具，然而我却又感染到了图灵对于“物理”和“机器”的执着。我觉得逻辑学家们对 lambda calculus 的解释过于复杂，而通过把它理解为物理的“电路元件”，让我对 lambda calculus 做出了更加简单的解释，把它与“现实世界”联系在了一起。
 
-<img src="http://www.yinwang.org/images/lambda-inside.png" width="30%">
+<img src="http://ericpony.github.io/wangyin/images/lambda-inside.png" width="30%">
 
 所以到最后，丘奇和图灵这两种看似矛盾的思想，在我的脑海里得到了和谐的统一。这些精髓的思想帮助我解决了许多的问题。感谢你们，计算机科学的两位鼻祖。

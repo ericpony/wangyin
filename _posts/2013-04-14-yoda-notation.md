@@ -9,7 +9,7 @@ title: Yoda 表示法错在哪里
 
 ### Yoda Notation（Yoda 表示法）
 
-![](http://www.yinwang.org/images/yoda-notation.jpeg)
+![](http://ericpony.github.io/wangyin/images/yoda-notation.jpeg)
 
 
 它的含义是，在 C/C++ 里面使用这样的表达式顺序：

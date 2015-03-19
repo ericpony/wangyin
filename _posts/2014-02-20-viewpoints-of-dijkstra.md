@@ -6,7 +6,7 @@ title: 一个对 Dijkstra 的采访视频
 
 <center>
 一个对 Dijkstra 的采访视频
-<p><a href="http://www.youtube.com/watch?v=RCCigccBzIU" target="_blank"><img class="aligncenter size-medium wp-image-5521" alt="" src="http://www.yinwang.org/images/dijkstra-interview.png" width="500px"></a></p>
+<p><a href="http://www.youtube.com/watch?v=RCCigccBzIU" target="_blank"><img class="aligncenter size-medium wp-image-5521" alt="" src="http://ericpony.github.io/wangyin/images/dijkstra-interview.png" width="500px"></a></p>
 </center>
 
 （不能访问&nbsp;[YouTube](http://www.youtube.com/watch?v=RCCigccBzIU)&nbsp;的人可以从这里下载&nbsp;[MPEG1](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html)，300M）

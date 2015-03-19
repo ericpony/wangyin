@@ -7,8 +7,8 @@ title: GTF - Great Teacher Friedman
 
 Dan Friedman 是 Indiana 大学的教授，Lisp (Scheme) 语言的主要研究者之一。他主要的著作《The Little Schemer》（前身叫《The Little Lisper》) 是程序语言界最具影响力的书籍之一。现在很多程序语言界的元老级人物，当年都是看这本“小人书”学会了 Lisp/Scheme，才决心进入这一领域。
 
-![The Little Schemer](http://www.yinwang.org/images/the-little-schemer.jpeg)
-![The Little Lisper](http://www.yinwang.org/images/the-little-lisper.jpeg)
+![The Little Schemer](http://ericpony.github.io/wangyin/images/the-little-schemer.jpeg)
+![The Little Lisper](http://ericpony.github.io/wangyin/images/the-little-lisper.jpeg)
 
 
 Friedman 对程序语言的理解可以说是世界的最高标准，很可惜的是，由于他个人的低调，他受到很多人的误解。很多人以为他只懂得 Scheme 这种“类型系统落后的语言”。有些人觉得他只顾自己玩，不求“上进”，觉得他的研究闭门造车，不“前沿”。我也误解过他，甚至在见面之前，根据这些书的封面，我断定他肯定是个年轻小伙。结果呢，第一次见到他的时候，他已经过了60岁大寿。
@@ -19,13 +19,13 @@ Friedman 对程序语言的理解可以说是世界的最高标准，很可惜�
 
 觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer：
 
-![The Little MLer](http://www.yinwang.org/images/the-little-mler.jpeg)
+![The Little MLer](http://ericpony.github.io/wangyin/images/the-little-mler.jpeg)
 
 
 想要真正理解 Java 设计模式的人可以看看这本：A Little Java, A Few Patterns:
 
 
-![java](http://www.yinwang.org/images/the-little-java.jpeg)
+![java](http://ericpony.github.io/wangyin/images/the-little-java.jpeg)
 
 
 这些东西的优点和弱点仿佛在他心里都有数，他几乎总是指向正确的前进方向。

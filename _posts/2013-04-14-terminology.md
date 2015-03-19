@@ -10,7 +10,7 @@ tags: programming
 
 * Yoda Notation（Yoda 表示法）
 
-  ![](http://www.yinwang.org/images/yoda-notation.jpeg)
+  ![](http://ericpony.github.io/wangyin/images/yoda-notation.jpeg)
 
 
   在 C/C++ 里面使用这样的表达式顺序：
@@ -30,7 +30,7 @@ tags: programming
 
 * Mental Speedbump（头脑减速杠）
 
-  ![](http://www.yinwang.org/images/speedbump.jpeg)
+  ![](http://ericpony.github.io/wangyin/images/speedbump.jpeg)
 
   由于设计的不协调性造成的用户的注意力分散。比如，很多软件喜欢弹出一个窗口问你“是否继续？”
 
@@ -46,7 +46,7 @@ tags: programming
 
 * Sins of our Forefathers（先辈的罪）
 
-  ![](http://www.yinwang.org/images/sins-fathers.jpeg)
+  ![](http://ericpony.github.io/wangyin/images/sins-fathers.jpeg)
 
   当时看起来合乎逻辑并且合情合理最后回顾起来却很傻b的历史遗留设计。
 
@@ -60,13 +60,13 @@ tags: programming
 
 * Workaround（变通）
 
-    ![](http://www.yinwang.org/images/workaround.png)
+    ![](http://ericpony.github.io/wangyin/images/workaround.png)
 
   因为开发过程的失败而让用户必须进行的一些操作。这些通常是设计失误。
 
 * Jenga Code
 
-  ![](http://www.yinwang.org/images/jenga-code.jpg)
+  ![](http://ericpony.github.io/wangyin/images/jenga-code.jpg)
 
   当你加上一小块代码之后，就整个垮掉的那种代码。
 
@@ -75,13 +75,13 @@ tags: programming
 
 * <a href="http://en.wikipedia.org/wiki/Higgs_boson">Higgs-Bugson</a>
 
-  <img src="http://www.yinwang.org/images/higgs-boson.jpg">
+  <img src="http://ericpony.github.io/wangyin/images/higgs-boson.jpg">
 
   一种假想中的 bug。它一般是跟据运行日志的少数记录和零星含糊的用户报告推测出来，但是在开发员的机器上很难重现。
 
 
 * <a href="http://en.wikipedia.org/wiki/Heisenberg_uncertainty_principle">Heisenbug</a>
 
-  <img src="http://www.yinwang.org/images/heisenbug.png">
+  <img src="http://ericpony.github.io/wangyin/images/heisenbug.png">
 
   当你试图观察它的时候就突然消失或者改变行为特征的 bug。
