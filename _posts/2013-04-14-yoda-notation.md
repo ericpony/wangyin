@@ -4,7 +4,7 @@ title: Yoda 表示法错在哪里
 ---
 
 
-在上一篇[博文](http://www.yinwang.org/blog-cn/2013/04/14/terminology/)里，我提到了 Yoda 表示法。
+在上一篇[博文](http://ericpony.github.io/wangyin/2013/04/14/terminology/)里，我提到了 Yoda 表示法。
 
 
 ### Yoda Notation（Yoda 表示法）

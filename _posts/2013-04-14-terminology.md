@@ -25,7 +25,7 @@ tags: programming
 
   同事认为：使用这个表示法是为了“变通”（wordaround） C/C++ 的一个设计抉择：使用 `=` 来表示赋值，而使用 `==` 来表示比较。这个设计充分的展现了“先辈的罪”（Sins of our Forefathers）这一词汇的精髓。
 
-  关于 Yoda 表示法我有不同的见解，请参考《[Yoda 表示法错在哪里](http://www.yinwang.org/blog-cn/2013/04/14/yoda-notation)》。
+  关于 Yoda 表示法我有不同的见解，请参考《[Yoda 表示法错在哪里](http://ericpony.github.io/wangyin/2013/04/14/yoda-notation)》。
 
 
 * Mental Speedbump（头脑减速杠）

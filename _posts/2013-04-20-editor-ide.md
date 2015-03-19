@@ -20,7 +20,7 @@ title: 编辑器与IDE
 
 这种针对程序语言的操作可以大大提高人们的思维效率，它让程序员的头脑从琐碎的细节里面解脱出来，所以他们能够更加专注于程序本身的语义和算法，这样他们能写出更加优美和可靠的程序。这就是我用 Eclipse 写 Java 程序的时候相对于 Emacs 的感觉。我感觉到自己的“心灵之眼”能够“看见”程序背后所表现的“模型”，而不只是看到程序的文本和细节。所以，我经常发现自己的头脑里面能够同时看到整个程序，而不只是它的一部分。我的代码比很多人的都要短很多也很有很大部分是这个原因，因为我使用的工具可以让我在相同的时间之内，对代码进行比别人多很多次的结构转换，所以我往往能够把程序变成其他人想象不到的样子。
 
-对于 Lisp 和 Scheme，Emacs 可以算是一个 IDE。Emacs 对于 elisp 当然是最友好的了，它的 Slime 模式用来编辑 Common Lisp 也相当不错。然而对于任何其它语言，Emacs 基本上都是门外汉。我大部分时间在 Emacs 里面是在写一些超级短小的 Scheme 代码，我有自己的一个简单的[配置方案](http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup)。虽然谈不上是 IDE，Emacs 编辑 Scheme 确实比其它编辑器方便。R. Kent Dybvig 写 Chez Scheme 居然用的是 vi，但是我并不觉得他的编程效率比我高。我的代码很多时候比他的还要干净利落，一部分原因就是因为我使用的 ParEdit mode 能让我非常高效的转换代码的“形状”。
+对于 Lisp 和 Scheme，Emacs 可以算是一个 IDE。Emacs 对于 elisp 当然是最友好的了，它的 Slime 模式用来编辑 Common Lisp 也相当不错。然而对于任何其它语言，Emacs 基本上都是门外汉。我大部分时间在 Emacs 里面是在写一些超级短小的 Scheme 代码，我有自己的一个简单的[配置方案](http://ericpony.github.io/wangyin/2013/04/11/scheme-setup)。虽然谈不上是 IDE，Emacs 编辑 Scheme 确实比其它编辑器方便。R. Kent Dybvig 写 Chez Scheme 居然用的是 vi，但是我并不觉得他的编程效率比我高。我的代码很多时候比他的还要干净利落，一部分原因就是因为我使用的 ParEdit mode 能让我非常高效的转换代码的“形状”。
 
 当要写 Java 的时候，我一般都用 Eclipse。最近写 C++ 比较多，C++ 的最好的 IDE 当然是 Visual Studio。可惜的是 VS 没有 Linux 的版本，所以就拿 Eclipse 凑合用着，感觉还比较顺手。个别情况 Eclipse “跳转定义”到一些完全不相关的地方，对于 C++ 的 refactor 实现也很差，除了最简单的一些情况（比如局部变量重命名），其它时候几乎完全不可用。当然 Eclipse 遇到的这些困难，其实都来自于 C++ 语言本身的糟糕设计。
 
@@ -33,7 +33,7 @@ title: 编辑器与IDE
 
 * 已经有人设计了这样一种编辑器的模型，并且设计的相当不错。你可以参考一下这个[结构化编辑器](http://blogs.msdn.com/b/kirillosenkov/archive/2009/09/08/first-videos-of-the-structured-editor-prototype.aspx)，它包含一些 Visual Studio 和 Eclipse 都没有的强大功能，却比它们两者都要更加容易实现。你可以在这个网页上下载这个编辑器模型来试用一下。
 
-* 我之前推荐过的 [TeXmacs](http://www.yinwang.org/blog-cn/2012/09/18/texmacs) 其实在本质上就是一个“超豪华”的结构化编辑器。你可能不知道，TeXmacs 不但能排版出 TeX 的效果，而且能够运行 Scheme 代码。
+* 我之前推荐过的 [TeXmacs](http://ericpony.github.io/wangyin/2012/09/18/texmacs) 其实在本质上就是一个“超豪华”的结构化编辑器。你可能不知道，TeXmacs 不但能排版出 TeX 的效果，而且能够运行 Scheme 代码。
 
 * IntelliJ IDEA 的制造者 JetBrains 做了一个结构化编辑系统，叫做 [MPS](http://www.jetbrains.com/mps)。它是开源软件，并且可以免费下载。
 
