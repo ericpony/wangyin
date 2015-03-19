@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 徵女性粉絲
+title: 徵求女性粉絲
 ---
 
 
@@ -16,7 +16,7 @@ title: 徵女性粉絲
 所以為了增加女性粉絲和女性朋友的數量，調節粉絲的男女比例，特此張貼受到好 
 評的近照一張（比現在帥的老照片可以在網上搜索「王垠」得到）： 
   
-<p><center><img src="images/portrait.jpg" width="300px" /></center></P>
+<p><center><img src="http://ericpony.github.io/wangyin/images/portrait.jpg" width="200px" /></center></P>
 
 幸好的是，雖然我的女性朋友不多，但每一個都挺惦記我，所以另附女性朋友和前 
 女友們對我的評價： 
