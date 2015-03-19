@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我眼里的Stanford
+title: 成见
 ---
 
 
