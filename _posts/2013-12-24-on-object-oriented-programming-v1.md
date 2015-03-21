@@ -16,7 +16,7 @@ Like every article on my blog, the opinions are completely personal and not repr
 
 Many people take “everything is an object” for granted because when this sentence is taken literally it matches their everyday experience. Since the word “object” in English basically means “a thing”, how can “everything is an object” be not true? But be careful since the definition of an “object” in OOP has a specific meaning which is very different from what it means in English.
 
-OOP’s definition of an [object](http://en.wikipedia.org/wiki/Object-oriented_programming) is “a combination of [data fields](http://en.wikipedia.org/wiki/Field_(computer_science)) (attributes that describe the object) and associated procedures known as [methods](http://en.wikipedia.org/wiki/Method_(computer_science))“. Can you really fit everything into this model?
+OOP’s definition of an [object](http://en.wikipedia.org/wiki/Object-oriented_programming) is “a combination of [data fields](http://en.wikipedia.org/wiki/Field_%28computer_science%29) (attributes that describe the object) and associated procedures known as [methods](http://en.wikipedia.org/wiki/Method_%28computer_programming%29)“. Can you really fit everything into this model?
 
 First let’s look at the real world and see if this definition can capture everything. Cars, trees, animals may sometimes be thought of as objects, but what about a _change_ of the objects’ position, its velocity and duration? What methods do they have? Well, you may define classes called Velocity or Time, with methods such as addition, but do velocity and time really contain the things that you call “methods”? They don’t. They are just your imagination. You can add the velocities or time, but how can velocities or time contain the addition procedure? This is like saying that the bullets contain the gun.
 
@@ -30,7 +30,7 @@ Mathematicians have a similar thing: set theory. Some geniuses encoded everythin
 
 So “everything is an object” is in some sense on the same track of “everything is a function” and “everything is a set”. Good thought exercise, but doesn’t really work well in practice. I don’t think that there is some “one true language”, but this model of OOP is too far from correct or practical. It’s somewhat like the [flat earth theory](http://en.wikipedia.org/wiki/Flat_Earth). Until today [some people](http://theflatearthsociety.org) still believe that the earth is flat and make all kinds of theories to prove it. Some of their arguments look very scientific, but do you believe in their formulas or a picture of the earth from the ISS? When you get the fundamental things wrong and don’t throw them away, you have to patch them endlessly with even more complicated theories. And that’s what happened to OOP.
 
-<center><p><img class="aligncenter size-medium wp-image-5521" alt="" src="https://yinwang0.files.wordpress.com/2013/12/flat-earth.png?w=300"></p></center>
+<center><p><img src="https://yinwang0.files.wordpress.com/2013/12/flat-earth.png?w=300"></p></center>
 
 ### Are functions objects?
 
