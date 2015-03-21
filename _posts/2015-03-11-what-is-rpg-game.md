@@ -6,7 +6,7 @@ title: RPG游戏是怎么炼成的
 
 前几天在一个朋友的怂恿下买了一个任天堂3DS游戏机，在上面玩的第一个游戏是大名鼎鼎的《The Legend of Zelda》。裸眼3D的画面是引人入胜的，很可惜玩了不一会儿我就发现它是绣花枕头一包草——它的游戏逻辑完全符合我之前总结出来的一个RPG游戏公式，所以顿时兴致全无。和机器一起买的另一个游戏《Pac-Man and the Ghostly Adventures》也很让人失望，完全没有原来的Pac-Man那么巧妙。所以第二天，我把3DS连同两个游戏一起卖给了这位朋友。
 
-<p><center><img src="http://upload-images.jianshu.io/upload_images/68562-f6772a9a2abb4358.png" width="300px" /></center></P>
+<p><center><img src="http://upload-images.jianshu.io/upload_images/68562-f6772a9a2abb4358.png" width="200px" /></center></P>
 
 我为什么对这种游戏不感兴趣呢？因为它符合一种惯用公式。这个公式可以用来制造无数这种游戏，让玩家像完成工作任务一样劳神费力。到了后来，你就搞不清楚是你在玩游戏，还是游戏在玩你了。现在我把这个制造RPG游戏的公式简要描述如下，可以帮助你识别无聊自虐的RPG游戏，提高自己的情趣标准。也许顺便还可以帮助某些人入行，设计出类似的游戏，用于浪费无知少年和无聊大叔们的时间。
 
