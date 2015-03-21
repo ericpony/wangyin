@@ -1,6 +1,6 @@
 ---
 layout: default
-title: On object-oriented programming
+title: On object-oriented programming (version 2)
 ---
 
 
