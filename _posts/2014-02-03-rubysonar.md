@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RubySonar: a static analyzer for Ruby
+title: RubySonar---a static analyzer for Ruby
 ---
 
 
