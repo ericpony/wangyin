@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 关于Git的礼节
+title: 关于 Git 的礼节
 ---
 
 

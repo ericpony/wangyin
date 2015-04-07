@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RPG游戏是怎么炼成的
+title: RPG 游戏是怎么炼成的
 ---
 
 

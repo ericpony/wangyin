@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 其他人的BUG
+title: 其他人的 BUG
 ---
 
 
